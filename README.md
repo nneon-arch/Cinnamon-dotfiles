@@ -26,6 +26,6 @@ To get the exact look:
 * Copy the `settings` file to `~/.config/plank/dock1/`.
 * Copy the WhiteSur-Dark folder to ~/.local/share/plank/themes/ and apply in preferences.
 * (You should use plank-reloaded since plank isn't getting updates anymore.)
-* 
+  
 #### 3. Terminal & Shell
 * Copy `.zshrc` and `.p10k.zsh` to your `$HOME` directory.
