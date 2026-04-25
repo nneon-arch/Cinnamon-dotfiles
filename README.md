@@ -1,9 +1,7 @@
 # macOS Tahoe Rice - Cinnamon
 A clean, performance-focused macOS clone for Cinnamon.
 
-<p align="center">
-  <img src="Preview.png" alt="MacOS Tahoe Linux Mint Preview" width="800">
-</p>
+![Preview](Preview.png)
 
 ### Hardware
 - **CPU:** Intel i5-9400
