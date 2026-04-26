@@ -61,10 +61,10 @@ Open your **Menu Editor**, find the app, go to its properties, click the icon, a
 
 ### Extras
 
-**My Fonts**
-![My fonts](Extras/My Fonts.png)
+- **My Fonts**
+<img src= "Extras/My Fonts" alt= "My Fonts">
 
-**My Applets**
+- **My Applets**
 The applets from left to right are: Menu, Calendar, Weather, Workspace switcher, and Windows quick list.
 
 **Date Format**
