@@ -61,11 +61,11 @@ Open your **Menu Editor**, find the app, go to its properties, click the icon, a
 
 ### Extras
 
-- **My Fonts**
+- **My Fonts:**
 <img src= "Extras/My Fonts.png" alt= "My Fonts">
 
-- **My Applets**
-The applets from left to right are: Menu, Calendar, Weather, Workspace switcher, and Windows quick list.
+- **My Applets:**
+<p>The applets from left to right are: Menu, Calendar, Weather, Workspace switcher, and Windows quick list.</p>
 
-**Date Format**
-The date format is "%a %b %-d %-I:%M %p".
+- **Date Format:**
+<p>The date format is "%a %b %-d %-I:%M %p".</p>
