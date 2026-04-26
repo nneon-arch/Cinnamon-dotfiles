@@ -62,7 +62,7 @@ Open your **Menu Editor**, find the app, go to its properties, click the icon, a
 ### Extras
 
 - **My Fonts**
-<img src= "Extras/My Fonts" alt= "My Fonts">
+<img src= "Extras/My Fonts.png" alt= "My Fonts">
 
 - **My Applets**
 The applets from left to right are: Menu, Calendar, Weather, Workspace switcher, and Windows quick list.
