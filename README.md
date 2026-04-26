@@ -59,6 +59,13 @@ Run these in your terminal (replace `YourApp` with the name of the file):
 ### 3. Apply it
 Open your **Menu Editor**, find the app, go to its properties, click the icon, and browse to your `~/.icons/custom-tahoe/` folder. Unpin the app, close it, and pin it again, then restart Plank (`killall plank && plank`) and you're done.
 
-#### Extras
+### Extras
+
+**My Fonts**
+![My fonts](Extras/My Fonts.png)
+
+**My Applets**
 The applets from left to right are: Menu, Calendar, Weather, Workspace switcher, and Windows quick list.
-The date format is %a %b %-d %-I:%M %p
+
+**Date Format**
+The date format is "%a %b %-d %-I:%M %p".
